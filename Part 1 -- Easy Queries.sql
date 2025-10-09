@@ -1,3 +1,4 @@
+-- Easy Queries
 select*from customers;
 -- 1 List all customers from USA.
 select customerName,country from customers
